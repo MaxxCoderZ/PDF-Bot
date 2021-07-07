@@ -1,5 +1,9 @@
 # Telegram PDF Bot 
 
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrBotDeveloper)
+
+
 [![Typing SVG](https://mdtype.herokuapp.com?font=Righteous&color=253AF7&size=31&center=true&vCenter=true&width=500&height=38&lines=A+Powerful+Telegram+PDF+Bot.....+;Deployable+On+Heroku+%F0%9F%9A%80+....+;Repo+Modified+%E2%9C%85+By;%40MrBotDeveloper;Show+Your+%E2%9D%A4%EF%B8%8F;%E2%AD%90+the+repo;Follow+%40MrBotDeveloper+Now...+;For+More+%F0%9F%A5%B0)](https://github.com/MrBotDeveloper)
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://github.com/MrBotDeveloper/PDF-Bot)
